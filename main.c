@@ -450,6 +450,7 @@ int main()
         case 'K':
         {
             lcm();
+            break;
         }
         case 'l':
         case 'L':
